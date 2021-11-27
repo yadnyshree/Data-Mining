@@ -14,8 +14,8 @@ All the above algorithms are implemented used faiss library.
 
 The exact search for L2 is performed   
 
-LSH : In LSH it is performed using the IndexLSH() function.   <n>
-Exhaustive search : In Exhaustive search it is performed using IndexFlatL2()   <n>
-Product Quantization : IndexIVFPQ().  <n>
-Trees and Graph : we install the annoy library.  <n>
-HNSW: IndexHNSWFlat().  <n>
+LSH : In LSH it is performed using the IndexLSH() function.<br>
+Exhaustive search : In Exhaustive search it is performed using IndexFlatL2()<br>
+Product Quantization : IndexIVFPQ().<br>
+Trees and Graph : we install the annoy library.<br>
+HNSW: IndexHNSWFlat().<br>
