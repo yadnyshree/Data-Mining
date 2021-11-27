@@ -9,3 +9,5 @@ The Colab shows the implementation of the various Approxiamate Nearest Neighbour
 4. Trees and Graphs
 
 5. HNSW
+
+All the above algorithms are implemented used faiss library.
