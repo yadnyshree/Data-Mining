@@ -1,4 +1,4 @@
-CNN model for Self drivinng cars.
+<h3>CNN model for Self drivinng cars.</h3>
 
 Link to spreadsheet: https://docs.google.com/spreadsheets/d/1xol1IGCYkcw5NhqtcFOelI092R7TUx6vJBHMNVmjnyE/edit#gid=107321436
 
